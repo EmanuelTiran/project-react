@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color: rgb(207, 223, 217);
 }
 
 .App-logo {
@@ -35,4 +36,7 @@
   to {
     transform: rotate(360deg);
   }
+}
+#listTodo{
+
 }
